@@ -1,14 +1,30 @@
 h5
 {  color : green;
 }
-p.speech{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: medium;
+.speech{ 
     color: black;
 }
-p.h6.HE{
-    font-style: italic;
+.SHE{
+    
+    font-style: bold;
     color: aqua;
 }
-p.h6.SHE{
-    font-style: oblique;
+.HE{
+    font-style: bold;
     color: blueviolet;
 }
+table{
+    height: 100px;
+    width: 50%;
+    color: chartreuse;
+    border: solid;
+    border-style: dashed;
+    border-collapse: separate;
+    padding: 10px;
+    margin: 100px 13em 15pt 10%
+}
+td, th {border: solid 1px ;
+    text-align: center;
+color: blue;}
+    tr:nth-child(even) 
+    {background-color: coral;}
