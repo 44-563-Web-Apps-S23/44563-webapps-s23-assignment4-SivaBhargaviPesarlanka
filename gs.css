@@ -1,0 +1,14 @@
+h5
+{  color : green;
+}
+p.speech{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: medium;
+    color: black;
+}
+h6.HE{
+    font-style: italic;
+    color: aqua;
+}
+h6.SHE{
+    font-style: oblique;
+    color: blueviolet;
+}
